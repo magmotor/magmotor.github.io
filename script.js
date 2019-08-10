@@ -1,0 +1,21 @@
+$(".electricalPage").hide();
+$(".projectPage").hide();
+
+$("solidworksButton").click
+(function(){
+  $(".page").hide();  
+  $("solidworksPage").show():
+ }
+)
+$("electricalButton").click
+(function(){
+  $(".page").hide();  
+  $("electricalPage").show():
+}
+ )
+$("projectButton").click
+(function(){
+  $(".page").hide();  
+  $("projectPage").show():
+}
+ )

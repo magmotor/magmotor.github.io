@@ -1,0 +1,62 @@
+h1 {
+  text-align: center;
+  background-color: grey;
+  color: white;
+  padding: 25px;
+  margin: auto;
+}
+.container {
+  border: 10px solid grey;
+  width: 80%;
+  margin: auto;
+  min-height: 500px;
+  background-color: darkgrey;
+}
+
+.menu {
+  text-align: center;
+  background-color: lightgrey;
+  padding: 25px;
+  margin: auto;
+  border-bottom: 10px solid grey;
+}
+
+.page {
+  position: relative;
+  border-top: 10px solid grey;
+  border-bottom: 10px solid grey;
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+  background-color: lightgrey;
+  color: white;
+  text-shadow: 2px 2px darkgrey;
+}
+button {
+  color: white;
+  background-color: darkgrey;
+  border: none;
+  padding: 15px 25px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: grey;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+  list-style: none;
+  text-indent: -35px;
+}
+li {
+  text-align: center;
+}
+img {
+  border-radius: 25px;
+}
+figcaption {
+border-left: 5px solid white;
+border-right: 5px solid white;
+border-bottom: 5px solid white;
+border-style: outset;
+}
